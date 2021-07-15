@@ -4,6 +4,10 @@ Projects made with love and care.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darylhjd&layout=compact&theme=dark&hide=jupyter%20notebook,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
+## Sponsors :>
+<a title="Ian Goh" href="https://github.com/iangohy"><img src="https://avatars.githubusercontent.com/u/16506822?v=4" width="75" alt="Ian Goh"></a>
+<a title="RazerMoon" href="https://github.com/RazerMoon"><img src="https://avatars.githubusercontent.com/u/33849459?v=4" width="75" alt="RazerMoon"></a>
+
 <!--
 **darylhjd/darylhjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
