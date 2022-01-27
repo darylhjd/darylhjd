@@ -1,24 +1,9 @@
 ### Hello~
 
-Projects made with love and care.
+<img src="https://media3.giphy.com/media/bEZ3iqzrcaShLYWSPt/200w.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darylhjd&layout=compact&theme=dark&hide=jupyter%20notebook,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darylhjd&layout=compact&theme=onedark&hide=jupyter%20notebook,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-## Sponsors :>
-<a title="Ian Goh" href="https://github.com/iangohy"><img src="https://avatars.githubusercontent.com/u/16506822?v=4" width="75" alt="Ian Goh"></a>
-<a title="RazerMoon" href="https://github.com/RazerMoon"><img src="https://avatars.githubusercontent.com/u/33849459?v=4" width="75" alt="RazerMoon"></a>
-
-<!--
-**darylhjd/darylhjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Thanks for the donation!
+<a title="Ian Goh" href="https://github.com/iangohy"><img src="https://avatars.githubusercontent.com/u/16506822?v=4" width="60" alt="Ian Goh"></a>
+<a title="RazerMoon" href="https://github.com/RazerMoon"><img src="https://avatars.githubusercontent.com/u/33849459?v=4" width="60" alt="RazerMoon"></a>
